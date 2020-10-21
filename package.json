@@ -1,0 +1,12 @@
+{
+  "name": "string-replace-soft",
+  "version": "1.0.0",
+  "description": "Simples pacote para formatar strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "votron",
+  "license": "MIT"
+}
